@@ -14,6 +14,7 @@ C++ code to implement Cache simulation
 ### Requirements
 
 1)C++ code editor and compiler i.e DevC++
+
 2)Trace.csr (File is provided in the project folder)
 
 ## Running the tests
